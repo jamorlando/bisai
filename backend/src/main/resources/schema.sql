@@ -569,7 +569,7 @@ CREATE TABLE `system_config`  (
 -- Records of system_config
 -- ----------------------------
 INSERT INTO `system_config` VALUES (1, 'textModelApiUrl', 'https://api-inference.modelscope.cn/v1', NULL, '2026-05-03 00:55:21');
-INSERT INTO `system_config` VALUES (2, 'textModelApiKey', 'ms-cb4b0861-40d9-4697-86ac-b8764e1cdbd1', NULL, '2026-05-03 00:55:21');
+INSERT INTO `system_config` VALUES (2, 'textModelApiKey', 'ms-c3d32764-83c2-4362-8d70-83feeda30596', NULL, '2026-05-03 00:55:21');
 INSERT INTO `system_config` VALUES (3, 'model', 'Qwen/Qwen3.5-35B-A3B', NULL, '2026-05-03 00:55:21');
 INSERT INTO `system_config` VALUES (4, 'timeout', '30000', NULL, '2026-05-03 00:55:21');
 INSERT INTO `system_config` VALUES (5, 'temperature', '0.3', NULL, '2026-05-03 00:55:21');
